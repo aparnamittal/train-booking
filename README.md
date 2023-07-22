@@ -1,3 +1,16 @@
+# Problem Statement :
+Develop a React-based Frontend web Application to display the Trains Schedule
+
+# About the project :
+This project contains two pages one for displaying all the trains which are available and the second for displaying the data of particular train 
+
+# Output interface :
+## First page contains all train data:
+![image](https://github.com/aparnamittal/2000320310042/assets/100208233/ae78c013-4aee-467d-a17d-67f2e8f1bfca)
+## Second page contains single train data:
+![image](https://github.com/aparnamittal/2000320310042/assets/100208233/1efb5631-ceb9-4473-98c2-b6253f8d6b54)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
